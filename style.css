@@ -4,9 +4,9 @@
     --black: black;
 }
 
-* {
-    color: var(fonteColor);
-    font-family: helvetica;
+.btn {
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
 }
 body {
     background: var(--bg);

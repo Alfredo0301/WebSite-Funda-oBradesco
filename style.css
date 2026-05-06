@@ -36,8 +36,12 @@ li {
 .light-theme {
     --bg: var(--green);
     --fontColor: var(--black);
+    --btnBG: var(--black);
+    --btnFontColor: var(--white);
 }
 .dark-theme {
     --bg: var(--black);
     --fontColor: var(--green);
+    --btnBG: var(--white);
+    --btnFontColor: var(--black);
 }

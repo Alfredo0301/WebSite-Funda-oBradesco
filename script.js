@@ -11,4 +11,5 @@ switcher.addEventListener('click', function() {
     else {
         this.textContent = "Light Theme";
     }
+    console.log('current class name: ' + className);
 });
